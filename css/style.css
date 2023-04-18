@@ -36,13 +36,14 @@ li {
     text-align: center;    
 }
 li:hover {
-    transition: 0.3;
+    transition: 0.5;
     background-color: #3887be;
     color: white;
 
 }
 #first {
     border-radius: 10px 0 0 10px;
+    transition: 0.5s;
 }
 #last{
     border-radius: 0 10px 10px 0;
